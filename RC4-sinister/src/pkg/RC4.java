@@ -1,11 +1,10 @@
-package pkg;
 /**
  * Implementacao do algoritmo RC4 stream cipher.
  * 
  * Para a execucao do projeto basta seguir os seguintes passos:
  * 	1. Abra seu terminal [BASH/CMD];
  * 	2. Digite: "javac RC4.java";
- * 	3. Após digite: "java RC4";
+ * 	3. ApÃ³s digite: "java RC4";
  *  4. Aguarde os dados serem exibidos em tela;
  *  
  * @author Yuri Oliveira Alves.
