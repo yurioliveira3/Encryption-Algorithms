@@ -1,3 +1,4 @@
+package pkg;
 /**
  * Implementacao do algoritmo RC4 stream cipher.
  * 
